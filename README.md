@@ -16,11 +16,11 @@ To compile this repository you need the following prerequisites:
 
 Clone the repository by using the following command:
 
-    git clone https://github.com/tobieder/MLImageDenoiser.git
+    git clone https://github.com/Realtime-RT-Filters/MLImageDenoiser.git
     
 ## Compiling
     
-Go to the `scripts` directory and execute the `_SETUP.py`. This will download the matching oidn binaries for your operating system.
+Go to the `scripts` directory and execute the `_SETUP.py` script. This will download the matching oidn files for your operating system.
 
 Use `CMake` to build a Visual Studio solution (tested on VS 2019) into a `build` directory by executing the following commands:
 
